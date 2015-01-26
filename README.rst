@@ -2,7 +2,7 @@
 PyGlacier
 =======
 
-Es un proyecto Python, que sirve de Wrapper al API de Amazon Glacier: `Amazon Glacier <http://http://aws.amazon.com/es/glacier/>`_.
+Es un proyecto Python, que sirve de Wrapper al API de Amazon Glacier: `Amazon Glacier <http://aws.amazon.com/es/glacier/>`_.
 
 
 
